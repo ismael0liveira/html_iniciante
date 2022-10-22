@@ -1,0 +1,144 @@
+
+Web Hacking => Hackear sites/aplicações
+
+HTML PARA HACKERS
+
+Por que?
+
+Compreender as vulnerabilidades/falhas/ataques/
+exploits de forma bem simples.
+
+
+<script>document.body.innerHTML='<h1>Hacked</h1>';</script>'
+
+
+formulários HTML
+
+
+Neste vídeo vamos aprender a estrutura base do HTML
+
+Por que?
+
+Depois que você aprender esta estrutura base, fica fácil você
+conseguir seguir com seus estudos em HTML.
+
+
+
+O HTML é um marcador de texto/hipertexto
+
+
+
+
+O HTML Não programação, ele é uma linguagem de marcação.
+
+
+O HTML é escrito pelas chamadas "tags html", entenda
+que elas são como se fosse "comandos do html"
+
+
+
+Como funciona/como são escritas estas tags HTML?
+
+
+
+Elas seguem um formato de escrita.
+
+
+Para compreender como escrevemos tags HTML, vamos comparar
+com uma caixa de papelão.
+
+
+< menor
+> maior
+/ barra invertida (dividir)
+
+
+<caixaDePapelao>
+
+segredos da mente milionária
+pai rico pai pobre
+
+</caixaDePapelao>
+
+
+Tags HTML que você coloca coisas na frente dela e essas coisas fazem parte dela, obrigatóriamente você deve fechar esta tag.
+
+
+É só analisar e observar se aquela tag parece uma ideia de caixa de papelão.
+
+
+<p>este é meu parágrafo</p>
+
+
+
+Tem um outro sentido, existem tags html que
+parecem cestas de frutas
+
+
+
+<cesta frutas="banana,maçã,goiaba">
+
+
+
+
+identação de código => Organizar o seu código de forma mais legível, de forma mais fácil de se ler, menos bagunçado.
+
+
+
+
+
+
+
+
+
+Atributo HTML
+
+São palavras especiais utilizadas para "configurar"/modificar/ uma tag html.
+
+Esses atributos HTML são escritos dentro das tags de abertura.
+
+eles tem uma aparência semelhante:
+
+palavra=""
+
+Uma palavra, um sinal de igual e duas áspas duplas.
+
+
+
+
+
+
+Existem duas classficações de atributos HTML:
+
+Atributos Globais
+
+
+São atributos que podemos utilizar em qualquer tag HTML.
+
+
+
+name=""
+
+
+
+
+
+
+
+Atributos específicos para determinadas tags HTML
+
+
+São atributos que só funcionam ou só tem sentido em determinadas tags HTML.
+
+
+charset=""
+
+caractere / colocar
+
+
+Esse atributo é específico da tag HTML <meta>
+
+
+metadados => São informações por trás de algum arquivo.
+
+
